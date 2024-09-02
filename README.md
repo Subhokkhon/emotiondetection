@@ -1,0 +1,1 @@
+In this project we take a image dataset from Kaggle containing happy emotions and sad emotions.Using tensorflow,opencv,matplotlib ,binary classification using CNN we are able to classify the emotion of a person in the image whether the person is happy or whether the person is sad.
